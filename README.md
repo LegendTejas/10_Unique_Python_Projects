@@ -1,3 +1,3 @@
 # Python Projects
 
-## All Python Projects from Beginner to Advanced
+## Unique Python Projects from Beginner to Advanced
