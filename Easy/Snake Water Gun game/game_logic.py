@@ -5,7 +5,7 @@ choices = {"Snake": 1, "Water": -1, "Gun": 0}
 reverse = {1: "Snake", -1: "Water", 0: "Gun"}
 
 def play_game(user_choice):
-    """Returns computer choice and result"""
+    """Return computer choice and result string."""
     comp = random.choice([-1, 0, 1])
     comp_choice = reverse[comp]
     you = choices[user_choice]
