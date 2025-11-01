@@ -3,7 +3,7 @@
 **Precision Pulse** is a fast-paced aim training game built with **Python** and **Pygame**.  
 Test and improve your **accuracy**, **speed**, and **reaction time** as you click on shrinking targets before they disappear!
 
-![Precision_PulseGIF](https://github.com/user-attachments/assets/65f88595-9982-4b1b-90f4-6624f1e1017a)
+<img src="https://github.com/user-attachments/assets/65f88595-9982-4b1b-90f4-6624f1e1017a" width="500">
 
 
 ---
