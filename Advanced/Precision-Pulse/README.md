@@ -1,11 +1,14 @@
-# 🎯 Precision Pulse
+# Precision Pulse
 
 **Precision Pulse** is a fast-paced aim training game built with **Python** and **Pygame**.  
 Test and improve your **accuracy**, **speed**, and **reaction time** as you click on shrinking targets before they disappear!
 
+![Precision_PulseGIF](https://github.com/user-attachments/assets/65f88595-9982-4b1b-90f4-6624f1e1017a)
+
+
 ---
 
-## 🚀 Features
+## Features
 
 - 🧠 **Dynamic Target System** – Targets grow and shrink smoothly, requiring precise timing.  
 - ⏱️ **Real-Time Stats** – Displays live time, speed, accuracy, and remaining lives.  
@@ -15,14 +18,14 @@ Test and improve your **accuracy**, **speed**, and **reaction time** as you clic
 
 ---
 
-## 🖥️ Game Preview
+## Game Preview
 
 > Click on targets as quickly and accurately as possible before they fade out.  
 > Each miss costs a life, and your performance is tracked throughout the session.
 
 ---
 
-## 🕹️ How to Play
+## How to Play
 
 1. **Run the game:**
    ```bash
@@ -40,7 +43,7 @@ Test and improve your **accuracy**, **speed**, and **reaction time** as you clic
 
 ---
 
-### ⚙️ Requirements
+### Requirements
 
 - Python 3.8+
 - Pygame
@@ -53,7 +56,7 @@ pip install pygame
 
 ---
 
-### 🧠 Concepts Used
+### Concepts Used
 
 - Object-Oriented Programming (OOP)
 - Event-driven game loop
